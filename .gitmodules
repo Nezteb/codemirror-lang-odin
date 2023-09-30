@@ -1,0 +1,3 @@
+[submodule "import-tree-sitter"]
+	path = import-tree-sitter
+	url = https://github.com/lezer-parser/import-tree-sitter
